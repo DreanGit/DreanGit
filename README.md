@@ -1,4 +1,4 @@
-# Hey there, I'm [Kamila]! 👋
+# Hi! ^^ I'm Kamila! 👋
 
 ![Coding Cat GIF](https://i.pinimg.com/originals/48/9f/71/489f7128c61eb0c4f2b6bc882708ef6e.gif)
 
