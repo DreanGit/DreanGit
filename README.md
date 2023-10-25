@@ -1,6 +1,8 @@
 # Hi! ^^ I'm Kamila! 👋
 
-![Coding Cat GIF](https://i.pinimg.com/originals/48/9f/71/489f7128c61eb0c4f2b6bc882708ef6e.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/48/9f/71/489f7128c61eb0c4f2b6bc882708ef6e.gif" alt="Coding Cat GIF">
+</p>
 
 I'm a 22-year-old coding fairy 🧚‍♀️ currently sprinkling magic in two spellbinding projects with my partner and boss (🥶), [@toniless]! 💕
 
