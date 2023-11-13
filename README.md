@@ -2,9 +2,13 @@
   <img src="https://i.pinimg.com/originals/d1/48/8c/d1488c62d2e566a8a5a581776e8a347a.gif" alt="Coding GIF">
 </p>
 
-# Hi! („• ֊ •„)੭  I'm Kamila Graña ☆
+<p align="center">
+  # Hi! („• ֊ •„)੭  I'm Kamila Graña ☆
+</p>
 
-An 22-year-old coding fairy 🧚‍♀️
+<p align="center">
+  An 22-year-old coding fairy 🧚‍♀️
+</p>
 
 ##About me ♡:
 
