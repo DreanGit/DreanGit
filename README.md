@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0j4CTEqS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2xpxyj7dbrptbvrgyaow.gif" alt="Coding GIF" width="100" height="100">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0j4CTEqS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2xpxyj7dbrptbvrgyaow.gif" alt="Coding GIF" width="550" height="300">
 </p>
 
 <h1 align="center"><b>Hi! („• ֊ •„)੭ I'm Kamila Graña ☆</b></h1>
