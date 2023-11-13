@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d1/48/8c/d1488c62d2e566a8a5a581776e8a347a.gif" alt="Coding GIF">
+  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0j4CTEqS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2xpxyj7dbrptbvrgyaow.gif" alt="Coding GIF">
 </p>
 
-<p align="center">
-  # Hi! („• ֊ •„)੭  I'm Kamila Graña ☆
-</p>
+<h1 align="center"><b>Hi! („• ֊ •„)੭ I'm Kamila Graña ☆</b></h1>
 
 <p align="center">
   An 22-year-old coding fairy 🧚‍♀️
