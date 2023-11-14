@@ -4,9 +4,9 @@
 
 <h1 align="center"><b>Hi! („• ֊ •„)੭ I'm Kamila Graña ☆</b></h1>
 
-<p align="center">
+<h2 align="center">
   An 22-year-old coding fairy 🧚‍♀️
-</p>
+</h2>
 
 ## About me ♡:
 
