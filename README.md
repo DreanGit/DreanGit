@@ -12,7 +12,7 @@
 
 I'm currently sprinkling magic in two spellbinding projects with my partner and boss (🥶), [@toniles](https://github.com/toniles)! 💕
 
-- 🌟 A passionate coding student with a magical touch.
+- 🌟 Coding student.
 - 🔭 Project 1: [AwesomeProject](https://github.com/DreanGit/AwesomeProject.git)
 - 🌱 Project 2: [Anychat](https://github.com/toniles/anychat.git)
 
