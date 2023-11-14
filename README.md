@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0j4CTEqS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2xpxyj7dbrptbvrgyaow.gif" alt="Coding GIF" width="550" height="300">
+  <img src="[https://res.cloudinary.com/practicaldev/image/fetch/s--0j4CTEqS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2xpxyj7dbrptbvrgyaow.gif](https://media.tenor.com/00JNBT9O3IYAAAAi/bunny-laptop.gif)" alt="Coding GIF">
 </p>
 
 <h1 align="center"><b>Hi! („• ֊ •„)੭ I'm Kamila Graña ☆</b></h1>
@@ -28,7 +28,7 @@ I'm currently sprinkling magic in two spellbinding projects with my partner and 
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="40" height="40"/>
   <img src="https://cdn.freebiesupply.com/logos/large/2x/mysql-5-logo-png-transparent.png" alt="MySQL" width="40" height="40"/>
   <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png" alt="NextJS" width="40" height="40"/>
-  <img src="  https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
+  <img src="[m/images/logos/downloads/Git-Icon-1788C.png)](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
 </p>
 
 🌟🌟🌟
