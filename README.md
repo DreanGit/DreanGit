@@ -17,7 +17,7 @@ I'm currently sprinkling magic in two spellbinding projects with my partner and 
 - 🌱 Project 2: [Anychat](https://github.com/toniles/anychat.git)
 
 ## Contact ☏:
-- 💌 Want to know more or collaborate? Contact me!
+- 💌 Want to know more or collaborate? Contact me![kamilagrust@gmail.com](mailto:kamilagrust@gmail.com)!
 
 ## Languages and Tools ⚒:
 <p align="center">
