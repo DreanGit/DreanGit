@@ -5,16 +5,16 @@
 <h1 align="center"><b>Hi! („• ֊ •„)੭ I'm Kamila Graña ☆</b></h1>
 
 <h2 align="center">
-  An 22-year-old coding fairy 🧚‍♀️
+  An 22-year-old Software Developer 🧚‍♀️
 </h2>
 
 ## About me ♡:
 
-I'm currently sprinkling magic in two spellbinding projects with my partner and boss (🥶), [@toniles](https://github.com/toniles)! 💕
+I'm currently working on two exciting projects with my partner and boss (🥶), [@toniles](https://github.com/toniles)! 💕
 
-- 🌟 Coding student.
-- 🔭 Project 1: [AwesomeProject](https://github.com/DreanGit/AwesomeProject.git)
-- 🌱 Project 2: [Anychat](https://github.com/toniles/anychat.git)
+- 🌟 Some projects:
+-  Project 1: [AwesomeProject](https://github.com/DreanGit/AwesomeProject.git)
+-  Project 2: [Anychat](https://github.com/toniles/anychat.git)
 
 ## Contact ☏:
 - 💌 Want to know more or collaborate? Contact me at [kamilagrust@gmail.com](mailto:kamilagrust@gmail.com) !
