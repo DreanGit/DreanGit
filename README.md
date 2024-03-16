@@ -8,9 +8,9 @@
   An 22-year-old Software Developer 🧚‍♀️
 </h2>
 
-## About me ♡:
+## About me:
 
-I'm currently working on two exciting projects with my partner and boss (🥶), [@toniles](https://github.com/toniles)! 💕
+I'm currently working on two exciting projects with my partner and boss, [@toniles](https://github.com/toniles)! 💕
 
 - 🌟 Some projects:
 -  Project 1: [AwesomeProject](https://github.com/DreanGit/AwesomeProject.git)
